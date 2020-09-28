@@ -30,8 +30,8 @@ document.addEventListener("DOMContentLoaded", function() {
 		slidesToShow: 2,
 		slidesToScroll: 2,
 		centerPadding: 0,
-		prevArrow: '<div class="slider-slick-arrow slider-slick-prev"><i class="far fa-angle-up"></i></div>',
-		nextArrow: '<div class="slider-slick-arrow slider-slick-next"><i class="far fa-angle-down"></i></div>',
+		prevArrow: '<div class="slider-slick-arrow slider-slick-prev"><i class="fas fa-angle-up"></i></div>',
+		nextArrow: '<div class="slider-slick-arrow slider-slick-next"><i class="fas fa-angle-down"></i></div>',
 		// autoplay: true,
 		autoplaySpeed: 3000,
 	});
